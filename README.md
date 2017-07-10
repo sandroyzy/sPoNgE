@@ -27,7 +27,7 @@ Script in Python 2. OG by Darron
 </li>
 <li>
 (You're now on the right folder) - after, type :</ol>
-<pre><code>python3 sponge.py
+<pre><code>python sponge.py
 </code></pre>
 <p>If you have a message saying "No module named 'requests'". Type :
 <pre><code>pip install [MISSING MODULE]</code></pre></p>
